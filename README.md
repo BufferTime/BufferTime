@@ -8,12 +8,11 @@
 <ol type = "1">
   <li>Photography & Videography </li>
   <li>Learning a language (I'm on my 3rd right now)</li>
-  <li>Learning Choreography</li>
   <li>Practicing Front-end Web Development</li>
   <li>Gaming and just chilling in general</li>
 </ol>
 
-<h3>In Front-end Web Development, I’m currently...</h3>
+<h3>In Front-end, I’m currently...</h3>
 <ol>
   <li>Practicing how to build static websites</li>
   <li>Learning Vanilla JavaScript</li>
