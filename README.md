@@ -1,4 +1,4 @@
-<h1> Hello, this is BufferTime </h1>
+<h1> Hello, this is RTM </h1>
 <hr>
 
 <h3>About Me</h3>
